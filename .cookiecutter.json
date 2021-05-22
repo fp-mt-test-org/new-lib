@@ -5,8 +5,28 @@
     "description": "new-lib",
     "destination": {
         "git": {
-            "name": "test-lib",
-            "owner": "fp-mt-test-org"
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/new-lib",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/new-lib",
+            "name": "new-lib",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/new-lib",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
         }
     },
     "java_package_name": "newlib",
