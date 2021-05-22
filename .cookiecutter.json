@@ -1,0 +1,36 @@
+{
+    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/98df13b0-d6fc-4ae1-b02d-4ba4f530fb2d/template",
+    "access": "fp-mt",
+    "artifact_id": "new-lib",
+    "component_id": "new-lib",
+    "description": "new-lib",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/new-lib",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/new-lib",
+            "name": "new-lib",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/new-lib",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "newlib",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/new-lib"
+}
