@@ -1,5 +1,5 @@
 {
-    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/98df13b0-d6fc-4ae1-b02d-4ba4f530fb2d/template",
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
     "access": "fp-mt",
     "artifact_id": "new-lib",
     "component_id": "new-lib",
