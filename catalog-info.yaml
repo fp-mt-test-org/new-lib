@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "new-lib"
+  description: "new-lib"
+  annotations:
+    github.com/project-slug: fp-mt-test-org/test-lib
+    backstage.io/techdocs-ref: url:https://github.com/fp-mt-test-org/new-lib
+    backstage.io/kubernetes-id: new-lib
+spec:
+  type: library
+  lifecycle: experimental
+  owner: "Product Infrastructure"

@@ -1,0 +1,15 @@
+{
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+    "artifact_id": "new-lib",
+    "component_id": "new-lib",
+    "description": "new-lib",
+    "destination": {
+        "git": {
+            "name": "test-lib",
+            "owner": "fp-mt-test-org"
+        }
+    },
+    "java_package_name": "newlib",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/new-lib"
+}
